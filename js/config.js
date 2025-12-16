@@ -120,7 +120,7 @@ var l_musicRandom = false;
 
 // Volume de la musique
 // Choisissez une valeur entre 0 (le plus faible) et 100 (le plus fort)
-var l_musicVolume = 20;
+var l_musicVolume = 2;
 
 // Activer les messages personnalisés ?
 // 'true' ou 'false'
