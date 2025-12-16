@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 // Centrer le logo ?
 // 'true' ou 'false'
-var l_centerLogo = true;
+var l_centerLogo = false;
 
 // Afficher la carte et le mode de jeu actuels ?
 // 'true' ou 'false'
@@ -72,11 +72,7 @@ var l_bgImageMapBased = false;
 // (Placez les fichiers dans le dossier backgrounds/images)
 // (Vous pouvez aussi utiliser une URL externe)
 var l_bgImages = [
-	"2.png",
-	"3.png",
-	"4.png",
-	"5.png",
-	"12.png"
+
 ];
 
 // (Arrière-plan image uniquement)
