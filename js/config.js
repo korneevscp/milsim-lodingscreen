@@ -111,7 +111,7 @@ var l_musicDisplay = true;
 // (Placez les fichiers ogg dans le dossier music)
 // (Vous pouvez aussi utiliser une URL externe pour les fichiers ogg)
 var l_musicPlaylist = [
-	{ogg: "Military.ogg", name: "Military Motivation - Devil At My Door (2020)"},
+	{ogg: "Military.ogg", name: "Military Motivation - Devil At My Door (2020)"}
 ];
 
 // Ordre aléatoire de la musique ?
@@ -138,7 +138,7 @@ var l_messages = [
 	"Observer, intervenir, neutraliser. Sans hésitation.",
 	"Face à l’inconnu, seuls les plus solides tiennent la ligne.",
 	"Le savoir est une arme. L’entraînement fait la différence.",
-	"Engagez-vous maintenant. OP 12 a besoin de vous.",
+	"Engagez-vous maintenant. OP 12 a besoin de vous."
 ];
 
 
