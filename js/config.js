@@ -16,6 +16,7 @@ var l_serverImage = "";
 // 'true' ou 'false'
 var l_centerLogo = false;
 
+
 // Afficher la carte et le mode de jeu actuels ?
 // 'true' ou 'false'
 var l_displayMapGamemode = false;
