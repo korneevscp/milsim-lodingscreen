@@ -22,7 +22,7 @@ var l_displayMapGamemode = false;
 
 // Configuration personnalisée du nom du serveur
 // Laissez vide pour un nom automatique
-var l_serverName = "OP 12 - Military RP |sérieux|";
+var l_serverName = "darkrp russian fr ";
 
 // Utiliser une vidéo comme arrière-plan ?
 // Sinon, des images seront utilisées
@@ -55,7 +55,7 @@ var l_bgVideo = true;
 // Assurez-vous simplement qu’elles soient au format webm VP8
 // (Placez les vidéos dans le dossier backgrounds/videos)
 // (Vous pouvez aussi utiliser une URL externe)
-var l_background = "Military-Motivation-.webm";
+var l_background = "1.webm";
 
 // (Arrière-plan image uniquement)
 // Activer l’image d’arrière-plan basée sur la carte ?
@@ -92,7 +92,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Activer l’overlay d’arrière-plan ?
 // 'true' ou 'false'
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 // Niveau d’assombrissement de l’arrière-plan
 // 0 pour aucun (0%), 100 pour noir complet (100%)
@@ -111,7 +111,7 @@ var l_musicDisplay = true;
 // (Placez les fichiers ogg dans le dossier music)
 // (Vous pouvez aussi utiliser une URL externe pour les fichiers ogg)
 var l_musicPlaylist = [
-	{ogg: "Military.ogg", name: "Military Motivation - Devil At My Door (2020)"}
+	{ogg: "1.ogg", name: "Молчат Дома - Судно (Doomer Wave)"}
 ];
 
 // Ordre aléatoire de la musique ?
@@ -128,18 +128,19 @@ var l_messagesEnabled = true;
 
 // Entrez vos messages personnalisés ci-dessous
 var l_messages = [
-	"OP 12 — Recrutement en cours",
-	"Vous avez été appelé. OP 12 ne retient que les plus déterminés.",
-	"Ordre, discipline, efficacité. Ici, chaque action a des conséquences.",
-	"La mission passe avant tout. Toujours.",
-	"Dans l’ombre, OP 12 opère pour maintenir l’équilibre.",
-	"Sang-froid, loyauté, engagement : êtes-vous prêt à servir ?",
-	"La sécurité globale dépend de nos opérateurs.",
-	"Observer, intervenir, neutraliser. Sans hésitation.",
-	"Face à l’inconnu, seuls les plus solides tiennent la ligne.",
-	"Le savoir est une arme. L’entraînement fait la différence.",
-	"Engagez-vous maintenant. OP 12 a besoin de vous."
+	"Le devoir envers l’État est au-dessus de l’individu.",
+	"La stabilité se mérite par l’obéissance et le sacrifice.",
+	"Un peuple uni ne pose pas de questions inutiles.",
+	"La force collective garantit l’avenir.",
+	"L’ordre protège ceux qui savent se taire.",
+	"La discipline est la vraie liberté.",
+	"Servir l’État, c’est survivre au chaos.",
+	"Les faibles doutent. Les loyaux exécutent.",
+	"L’histoire se souvient de ceux qui obéissent.",
+	"La vigilance est un acte patriotique.",
+	"L’État voit tout. L’État protège."
 ];
+
 
 
 // Ordre aléatoire des messages ?
